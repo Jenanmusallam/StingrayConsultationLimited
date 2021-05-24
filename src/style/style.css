@@ -161,7 +161,7 @@ input[type="submit"]:hover {
 .customers th {
   border: 1px solid #ddd;
   padding: 8px;
-  text-align: center;
+  text-align: left;
 }
 
 .customers tr:nth-child(even) {
@@ -319,11 +319,6 @@ h1 {
   right: 10px;
   bottom: 10px;
 }
-
-.row:last-child .card:first-child .card-cont a {
-  background-color: #037fdd;
-}
-
 .row:last-child .card:last-child .card-cont a {
   background-color: #f8504c;
 }

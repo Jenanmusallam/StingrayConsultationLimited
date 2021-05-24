@@ -7,7 +7,6 @@ import Tickets from './components/Tickets';
 import Ticket from './components/Ticket';
 import {
 	HashRouter,
-	BrowserRouter as Router,
 	Switch,
 	Route,
 } from 'react-router-dom';
